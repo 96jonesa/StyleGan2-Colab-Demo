@@ -7,6 +7,14 @@ and with varying differentiable augmentation probabilities) on various small dat
 small_set_demo.ipynb is a notebook used for training models with lucidrains' StyleGAN2 PyTorch implementation, using Colab
 and Google Drive (because free compute is nice).
 
+Here is a link to the public directory on my Google Drive containing the generated sample images used in the
+output_small_set_demo.ipynb notebook:
+https://drive.google.com/drive/folders/1gpZKmuvOnsuRmCo3MEcpST_WC1Laaz3W?usp=sharing
+
+Here is a link to the public directory on my Google Drive containing all of the models and results from training using the
+small_set_demo.ipynb notebook:
+https://drive.google.com/drive/folders/1lBe6A5oTX6SuIg_iEoTcOdeC6-Quk9Ez?usp=sharing
+
 So far, this is an afternoon's work. Expect frequent updates in the near future.
 
 # Citations
