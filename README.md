@@ -11,7 +11,7 @@ and Google Drive (because free compute is nice). Here is a link to the notebook 
 https://colab.research.google.com/drive/1QWMCwSIdDb3GQp7lHqWc0RAcnI2FANBw?usp=sharing
 
 Here is a link to the public directory on my Google Drive containing the generated sample images used in the
-output_small_set_demo.ipynb notebook:
+output_small_set_demo.ipynb notebook (equivalent to this repo's samples directory):
 https://drive.google.com/drive/folders/1gpZKmuvOnsuRmCo3MEcpST_WC1Laaz3W?usp=sharing
 
 Here is a link to the public directory on my Google Drive containing all of the models and results from training using the
