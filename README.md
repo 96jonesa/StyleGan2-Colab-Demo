@@ -23,7 +23,7 @@ training_small_set_demo.ipynb notebook:
 https://drive.google.com/drive/folders/1lBe6A5oTX6SuIg_iEoTcOdeC6-Quk9Ez?usp=sharing
 
 # Note on project progress
-So far, this is a day's work, but I think it is already somewhat interesting. Expect frequent updates in the near future.
+So far, this is a day's work, but I think it is already somewhat interesting. Expect frequent updates in the near future, to make it more interesting.
 
 # Citations
 @inproceedings{choi2020starganv2,
