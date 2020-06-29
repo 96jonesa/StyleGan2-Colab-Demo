@@ -1,24 +1,29 @@
 # StyleGan2-Colab-Demo
 Notebooks for training StyleGAN2 models and generating samples with Colab and Google Drive, using lucidrains' StyleGAN2 PyTorch implementation.
 
-output_small_set_demo.ipynb is a notebook comparing results across various training configurations (with and without attention,
+# You probably want to see this
+output_small_set_demo.ipynb is a notebook comparing and explaining results across various training configurations (with and without attention,
 and with varying differentiable augmentation probabilities) on various small datasets (... and CelebA). Here is a link to the
 notebook on Colab:
 https://colab.research.google.com/drive/1uwPlY-4P_6fJ59SFRtgZLebVGgwGrUQu?usp=sharing
 
+# The tool I made for training with Colab and Google Drive
 small_set_demo.ipynb is a notebook used for training models with lucidrains' StyleGAN2 PyTorch implementation, using Colab
 and Google Drive (because free compute is nice). Here is a link to the notebook on Colab:
 https://colab.research.google.com/drive/1QWMCwSIdDb3GQp7lHqWc0RAcnI2FANBw?usp=sharing
 
+# Sample images directory on my Google Drive
 Here is a link to the public directory on my Google Drive containing the generated sample images used in the
 output_small_set_demo.ipynb notebook (equivalent to this repo's samples directory):
 https://drive.google.com/drive/folders/1gpZKmuvOnsuRmCo3MEcpST_WC1Laaz3W?usp=sharing
 
+# All samples and models on my Google Drive
 Here is a link to the public directory on my Google Drive containing all of the models and results from training using the
 small_set_demo.ipynb notebook:
 https://drive.google.com/drive/folders/1lBe6A5oTX6SuIg_iEoTcOdeC6-Quk9Ez?usp=sharing
 
-So far, this is an afternoon's work. Expect frequent updates in the near future.
+# Note on project progress
+So far, this is an afternoon's work, but I think it is already somewhat interesting. Expect frequent updates in the near future.
 
 # Citations
 @inproceedings{choi2020starganv2,
