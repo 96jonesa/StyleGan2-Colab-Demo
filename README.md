@@ -1,5 +1,5 @@
 # StyleGan2-Colab-Demo
-Notebooks for training and generating samples with Colab and Google Drive, using lucidrains' StyleGAN2 PyTorch implementation.
+Notebooks for training StyleGAN2 models and generating samples with Colab and Google Drive, using lucidrains' StyleGAN2 PyTorch implementation.
 
 output_small_set_demo.ipynb is a notebook comparing results across various training configurations (with and without attention,
 and with varying differentiable augmentation probabilities) on various small datasets (... and CelebA). Here is a link to the
