@@ -9,7 +9,7 @@ https://colab.research.google.com/drive/1uwPlY-4P_6fJ59SFRtgZLebVGgwGrUQu?usp=sh
 
 # The tool I made for training with Colab and Google Drive
 training_small_set_demo.ipynb is a notebook used for training models with lucidrains' StyleGAN2 PyTorch implementation, using Colab
-and Google Drive (because free compute is nice). Here is a link to the notebook on Colab:
+and Google Drive (because free compute is nice). It is currently a bit cluttered with a sample generation feature that I intend to move to its own notebook. Here is a link to the notebook on Colab:
 https://colab.research.google.com/drive/1QWMCwSIdDb3GQp7lHqWc0RAcnI2FANBw?usp=sharing
 
 # Sample images directory on my Google Drive
