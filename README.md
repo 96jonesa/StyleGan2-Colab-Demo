@@ -24,6 +24,7 @@ https://drive.google.com/drive/folders/1lBe6A5oTX6SuIg_iEoTcOdeC6-Quk9Ez?usp=sha
 
 # Note on project progress
 So far, this is a few days' work, but I think it is already somewhat interesting. Expect frequent updates in the coming days.
+
 Update July 31, 2020: I have been very busy with other projects, but I intend to update this project was higher resolution results within the next week or so.
 
 # Citations
