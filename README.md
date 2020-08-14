@@ -25,8 +25,6 @@ https://drive.google.com/drive/folders/1lBe6A5oTX6SuIg_iEoTcOdeC6-Quk9Ez?usp=sha
 # Note on project progress
 So far, this is a few days' work, but I think it is already somewhat interesting. Expect frequent updates in the coming days.
 
-Update August 6, 2020: I have been very busy with other projects and as a result have not had time to tinker with the configurations and run more training for this demo, but I intend to update this project with higher resolution results within the next week or so. I also intend to polish the existing code.
-
 # Citations
 @inproceedings{choi2020starganv2,
   title={StarGAN v2: Diverse Image Synthesis for Multiple Domains},
