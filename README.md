@@ -23,7 +23,7 @@ training_small_set_demo.ipynb notebook:
 https://drive.google.com/drive/folders/1lBe6A5oTX6SuIg_iEoTcOdeC6-Quk9Ez?usp=sharing
 
 # Project Progress
-So far, this is a day's work and a few days of training, but I think it is already somewhat interesting. Expect updates whenever I have a few Colab GPUs to allocate to this (I am usually using all 4 for other projects).
+So far, this is a couple days' work and a few days of training, but I think it is already somewhat interesting. Expect updates whenever I have a few Colab GPUs to allocate to this (I am usually using all 4 for other projects).
 
 # Citations
     @inproceedings{choi2020starganv2,
