@@ -23,7 +23,7 @@ training_small_set_demo.ipynb notebook:
 https://drive.google.com/drive/folders/1lBe6A5oTX6SuIg_iEoTcOdeC6-Quk9Ez?usp=sharing
 
 # Project Progress
-So far, this is a couple days' work and a few days of training, but I think it is already somewhat interesting. Expect updates whenever I have a few Colab GPUs to allocate to this (I am usually using all 4 for other projects). I should have some time for this mid-December, so I will try to get some results from: longer training on current configurations, some training on higher (512x512) resolution where applicable, and training current configurations with lower learning rates where useful (while demonstrating divergence due to high learning rate is useful (particularly for the afhq-dog model), there is value in showing the result on the same configuration with a tuned learning rate).
+So far, this is a couple days' work and a few days of training, but I think it is already somewhat interesting. Expect updates whenever I have a few Colab GPUs to allocate to this (I am usually using all 4 for other projects). I should have some time for this mid-December, so I will try to get some results from: longer training on current configurations, some training on higher (512x512) resolution where applicable, and training current configurations with lower learning rates where useful (while demonstrating divergence due to high learning rate is useful (particularly for the afhq-dog model), there is value in showing the result on the same configuration with a tuned learning rate, however I don't intend to commit the time to tuning the learning rate for every model - these things take forever to train even with optimal learning rates).
 
 # Citations
     @inproceedings{choi2020starganv2,
